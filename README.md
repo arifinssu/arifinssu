@@ -6,3 +6,13 @@
 </div>
 
 <div> An electronics engineer from State University of Jakarta who also doing some programming for embedded devices such like microcontroller, SBC, and PLC. Not only that, but also integrating all of them into current or new system. He is highly energetic to do some research about technological innovation. </div> 
+
+---
+
+<div align="center">
+  
+  [![Profile views](https://komarev.com/ghpvc/?username=arifinssu&style=for-the-badge&color=brightgreen)]()
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arifinssu)
+  [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/arifinssu)
+
+</div>
