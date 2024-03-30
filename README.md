@@ -12,7 +12,6 @@
 <div align="center">
   
   [![Profile views](https://komarev.com/ghpvc/?username=arifinssu&style=for-the-badge&color=brightgreen)]()
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arifinssu)
   [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/arifinssu)
 
 </div>
