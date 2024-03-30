@@ -1,5 +1,9 @@
-<h1 align="center">👋, Samsul Arifin here</h1>
-<h4 align="left">An electronics engineer from State University of Jakarta who also doing some programming for embedded devices such like microcontroller, SBC, and PLC. Not only that, but also integrating all of them into current or new system. He is highly energetic to do some research about technological innovation.</h4>
+<div align="center">
+  <h3>👋, Samsul Arifin here</h3>
+  <h4>An IoT Enginner from Indonesia</h4>
+</div>
+
+</br></br>
 
 - 🌱 I’m currently learning **STM32Cube (embedded), gateway and image processing (python),** and also **Leptos (rust)**
 - 📫 You could reach me at: **arifinssu@outlook.com** or linktree below
